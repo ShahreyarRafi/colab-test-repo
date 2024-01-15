@@ -1,5 +1,8 @@
 const a = 'atik'
 
-const b ='rafi'
+const b = 'rafi'
 
-const m = 'minhajul'
+const p = 'parvej'
+
+const m = 'minhaj'
+
